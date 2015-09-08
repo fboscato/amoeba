@@ -1,7 +1,8 @@
-<?php
-    include ("cabecalho.php");
-?>
 
+<?php
+include 'cabecalho.php';
+
+?>
 		<!-- services -->
 		<section id="section-services" class="section pad-bot30 bg-white">
 			<div class="container">
@@ -303,5 +304,7 @@
 				</p>
 			</div>
 		</section>
-
+<?php
+ include 'rodape.php';
+?>
 	
