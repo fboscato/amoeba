@@ -1089,3 +1089,11 @@ Media queries
 		margin-bottom: 30px;
 	}
 }
+.imagemcosta{
+	background: url(../img/costa/0001.jpg);
+}
+.imagemcosta, #img1{
+	background: url(../img/costa/0001.jpg);
+	
+}
+

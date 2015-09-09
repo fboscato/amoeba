@@ -92,7 +92,6 @@
 
 		</section>
 		<a href="#header" class="scrollup"><i class="fa fa-chevron-up"></i></a>
-
 		<script src="js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
 		<script src="js/jquery.js"></script>
 		<script src="js/jquery.easing.1.3.js"></script>

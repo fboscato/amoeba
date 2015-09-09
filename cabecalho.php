@@ -34,10 +34,10 @@
 				<div class="navbar-collapse collapse">
 					<ul class="nav navbar-nav" data-0="margin-top:20px;" data-300="margin-top:5px;">
 						<li class="active">
-							<a href="index.html">Home</a>
+							<a href="index.php">Home</a>
 						</li>
 						<li>
-							<a href="Historia.html">História</a>
+							<a href="historia.php">História</a>
 						</li>
 						<li>
 							<a href="#section-about">Noticias</a>
