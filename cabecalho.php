@@ -35,15 +35,15 @@
 					<ul class="nav navbar-nav" data-0="margin-top:20px;" data-300="margin-top:5px;">
 						<li class="active">
 							<a href="index.php">Home</a>
-						</li>
+						</li>						
 						<li>
-							<a href="historia.php">História</a>
-						</li>
-						<li>
-							<a href="#section-about">Noticias</a>
+							<a href="#section-about">Notícias</a>
 						</li>
 						<li>
 							<a href="#section-works">Fotos</a>
+						</li>
+						<li>
+							<a href="historia.php">História</a>
 						</li>
 						<li>
 							<a href="#section-contact">Contatos</a>
@@ -62,8 +62,7 @@
 							<i class="fa fa-flask fa-5x mar-bot20"></i>
 							<h2 class="slogan">Portal Xanxerê</h2>
 							<p>
-								Principla.
-
+								Principal.
 							</p>
 						</div>
 					</div>

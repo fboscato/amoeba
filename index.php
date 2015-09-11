@@ -73,7 +73,7 @@ include 'cabecalho.php';
 				<div class="row mar-bot40">
 					<div class="col-md-offset-3 col-md-6">
 						<div class="section-header">
-							<h2 class="section-heading animated" data-animation="bounceInUp">Our Team</h2>
+							<h2 class="section-heading animated" data-animation="bounceInUp">Notícias</h2>
 							<p>
 								Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet consectetur, adipisci velit, sed quia non numquam.
 							</p>
@@ -149,9 +149,9 @@ include 'cabecalho.php';
 				<div class="row mar-bot40">
 					<div class="col-md-offset-3 col-md-6">
 						<div class="section-header">
-							<h2 class="section-heading animated" data-animation="bounceInUp">Portfolio</h2>
+							<h2 class="section-heading animated" data-animation="bounceInUp">Fotos</h2>
 							<p>
-								Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet consectetur, adipisci velit, sed quia non numquam.
+								Veja as fotos do município, como que foi o conesso da cidade.
 							</p>
 						</div>
 					</div>
@@ -161,7 +161,7 @@ include 'cabecalho.php';
 					<nav id="filter" class="col-md-12 text-center">
 						<ul>
 							<li>
-								<a href="#" class="current btn-theme btn-small" data-filter="*">All</a>
+								<a href="#" class="current btn-theme btn-small" data-filter="*">Todos</a>
 							</li>
 							<li>
 								<a href="#"  class="btn-theme btn-small" data-filter=".webdesign" >Web Design</a>
@@ -276,11 +276,11 @@ include 'cabecalho.php';
 
 								<article class="col-md-4 isotopeItem print">
 									<div class="portfolio-item">
-										<img src="img/portfolio/img9.jpg" alt="" />
+										<img src="img/costa/0001.jpg" alt="" />
 										<div class="portfolio-desc align-center">
 											<div class="folio-info">
 												<h5><a href="#">Portfolio name</a></h5>
-												<a href="img/portfolio/img9.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
+												<a href="img/costa/0001.jpg" class="fancybox"><i class="fa fa-plus fa-2x"></i></a>
 											</div>
 										</div>
 									</div>

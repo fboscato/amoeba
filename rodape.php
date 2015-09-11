@@ -16,32 +16,32 @@
 					<div class="col-md-8 col-md-offset-2">
 						<div class="cform" id="contact-form">
 							<div id="sendmessage">
-								Your message has been sent. Thank you!
+								Sua mensagem foi enviada. Obrigado!
 							</div>
 							<form action="contact/contact.php" method="post" role="form" class="contactForm">
 								<div class="form-group">
-									<label for="name">Your Name</label>
-									<input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="maxlen:4" data-msg="Please enter at least 4 chars" />
+									<label for="name">Seu nome</label>
+									<input type="text" name="name" class="form-control" id="name" placeholder="Seu nome" data-rule="maxlen:4" data-msg="Por favor, insira pelo menos 4 caracteres" />
 									<div class="validation"></div>
 								</div>
 								<div class="form-group">
-									<label for="email">Your Email</label>
-									<input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+									<label for="email">Seu email</label>
+									<input type="email" class="form-control" name="email" id="email" placeholder="Seu email" data-rule="email" data-msg="Por favor entre com um email válido" />
 									<div class="validation"></div>
 								</div>
 								<div class="form-group">
-									<label for="subject">Subject</label>
-									<input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="maxlen:4" data-msg="Please enter at least 8 chars of subject" />
+									<label for="subject">Assunto</label>
+									<input type="text" class="form-control" name="subject" id="subject" placeholder="Assunto" data-rule="maxlen:4" data-msg="Por favor, insira pelo menos 8 caracteres de assunto" />
 									<div class="validation"></div>
 								</div>
 								<div class="form-group">
-									<label for="message">Message</label>
-									<textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us"></textarea>
+									<label for="message">Mensagem</label>
+									<textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Por favor, escreva algo para nós"></textarea>
 									<div class="validation"></div>
 								</div>
 
-								<button type="submit" class="btn btn-theme pull-left">
-									SEND MESSAGE
+								<button type="submit" class="btn btn-theme pull-left" id="button1">
+									Enviar Mensagem
 								</button>
 							</form>
 
@@ -84,7 +84,7 @@
 				<div class="row align-center copyright">
 					<div class="col-sm-12">
 						<p>
-							Copyright &copy; 2014 Amoeba - by <a href="http://bootstraptaste.com">Bootstraptaste</a>
+							Copyright &copy; 2015 - Fernando Bruno Boscato <a href="http://bootstraptaste.com">Bootstraptaste</a>
 						</p>
 					</div>
 				</div>
