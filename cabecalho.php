@@ -35,7 +35,7 @@
 					<ul class="nav navbar-nav" data-0="margin-top:20px;" data-300="margin-top:5px;">
 						<li class="active">
 							<a href="index.php">Home</a>
-						</li>						
+						</li>
 						<li>
 							<a href="#section-about">Notícias</a>
 						</li>
@@ -53,19 +53,49 @@
 			</div>
 		</div>
 
-		<section class="featured">
-			<div class="container">
-				<div class="row mar-bot40">
-					<div class="col-md-6 col-md-offset-3">
+		<!--<section class="featured">
+			
+				
+					<!--<div class="col-md-6 col-md-offset-3"><div class="row mar-bot40"><div class="container">
+						<!--  ############################################################################-->
+						<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+							<!-- Indicators -->
+							<ol class="carousel-indicators">
+								<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+								<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+								<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+							</ol>
 
-						<div class="align-center">
+							<!-- Wrapper for slides -->
+							<div class="carousel-inner" role="listbox">
+								<div class="item active">
+									<img src="img/parallax/img1.jpg" alt="...">
+									<div class="carousel-caption">
+										Principal 1.
+									</div>
+								</div>
+								<div class="item">
+									<img src="img/parallax/img2.jpg" alt="...">
+									<div class="carousel-caption">
+										Principal 2.
+									</div>
+								</div>
+								...
+							</div>
+
+							<!-- Controls -->
+							<a class="left carousel-control" href="#meusSlaid" role="button" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a>
+							<a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next"> <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> <span class="sr-only">Next</span> </a>
+						</div>
+						<!--  ############################################################################-->
+					<!--	<div class="align-center">
 							<i class="fa fa-flask fa-5x mar-bot20"></i>
 							<h2 class="slogan">Portal Xanxerê</h2>
 							<p>
 								Principal.
 							</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
+					</div>-->
+				<!--	</div> </div> </div>-->
+				
+			
+	<!--	</section>-->
