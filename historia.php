@@ -3,7 +3,9 @@ include 'cabecalho.php';
 ?>
 
 <div  class="container" id="imagemcosta"><br />
+
 <div class="col-md-6">
+		<img src="img/costa/0001.jpg" height="200" width="200" alt="..." class="img-circle">
 	<section id="img1">
 	<div class="container">
 				<div class="align-center pad-top40 pad-bot40">
@@ -15,11 +17,12 @@ include 'cabecalho.php';
 					</p>
 				</div>
 			</div>
+			
 </section>
-	<!--<img src="img/costa/0001.jpg" alt="..." class="img-circle" id="img01">-->
+	
 </div>
 <div class="col-md-6">
-	<img src="img/costa/0003.jpg" alt="..." class="img-circle">
+	<img src="img/costa/0003.jpg" height="200" width="200" alt="..." class="img-circle">
 </div>
 </div>
 <div class="col-md-6">

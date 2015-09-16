@@ -1,4 +1,4 @@
 <?php
 // To
-define("WEBMASTER_EMAIL", 'name@email.com');
+define("http://www.portalxanxere.com.br/", 'fboscato1@gmail.com');
 ?>

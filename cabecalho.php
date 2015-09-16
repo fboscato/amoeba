@@ -13,10 +13,12 @@
 		<meta name="description" content="">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="stylesheet" type="text/css" href="css/isotope.css" media="screen" />
-		<link rel="stylesheet" href="js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />		
+		<script src="js/jquery-1.11.3.min.js" type="text/javascript"></script>
 		<link rel="stylesheet" href="css/bootstrap.css">
 		<link rel="stylesheet" href="css/bootstrap-theme.css">
 		<link rel="stylesheet" href="css/style.css">
+		<script src='js/bootstrap.js' type="text/javascript"></script>
 		<!-- skin -->
 		<link rel="stylesheet" href="skin/default.css">
 	</head>
@@ -42,11 +44,14 @@
 						<li>
 							<a href="#section-works">Fotos</a>
 						</li>
-						<li>
+						<li>							
 							<a href="historia.php">História</a>
 						</li>
 						<li>
 							<a href="#section-contact">Contatos</a>
+						</li>
+						<li>
+							<a href="#login.php">Login</a>
 						</li>
 					</ul>
 				</div><!--/.navbar-collapse -->
@@ -57,7 +62,7 @@
 			
 				
 					<!--<div class="col-md-6 col-md-offset-3"><div class="row mar-bot40"><div class="container">
-						<!--  ############################################################################-->
+						<!--  ############################# Carrocel ###############################################-->
 						<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 							<!-- Indicators -->
 							<ol class="carousel-indicators">
@@ -80,13 +85,16 @@
 										Principal 2.
 									</div>
 								</div>
-								...
+								<div class="item">
+									<img src="img/parallax/img3.jpg" alt="...">
+									<div class="carousel-caption">
+										Principal 3.
+									</div>
+								</div>
 							</div>
 
 							<!-- Controls -->
-							<a href="" class="carousel-control left" data-slide="prev">&lsaquo;</a>
-							<a class="left carousel-control" href="#meusSlaid" role="button" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a>
-							<a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next"> <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> <span class="sr-only">Next</span> </a>
+							
 						</div>
 						<!--  ############################################################################-->
 					<!--	<div class="align-center">
